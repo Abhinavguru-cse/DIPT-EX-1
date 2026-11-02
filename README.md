@@ -333,50 +333,80 @@ o Save the final modified image to your local directory.
 <img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/286a53dd-2632-4d5e-b105-1f65d42100a0" />
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/eb91dae2-a5a7-4e0d-b456-a121cc87f4f6" />
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/3715e116-ee7b-4b63-9ed9-da1d46f45db0" />
-
-
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/a6cdb37f-4025-4f13-928a-c5dc147267ff" />
-
-
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/8f703c75-bd5b-4f1b-9bb4-cdfbcd00b4b5" />
-
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/5491233a-ff49-420b-9b0c-2077265a37b1" />
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/a2125f55-3602-41e5-bd92-af2ce9d773e8" />
 
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/a504c2f9-f5cc-4c28-9305-a27dae506d99" />
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/2de139f5-2423-4819-805d-eece541c6525" />
 
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/787db058-fa27-4f89-b591-0bd62a22f91b" />
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/eb885e11-5f41-46c7-b470-20d243ffd985" />
 
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/563d3ce3-7639-4b6b-b06f-8c4bc54d04d6" />
 
-
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/a7906c30-4e9f-4ff2-a92c-2556a57442d7" />
-
-
-
-<img width="294" height="411" alt="image" src="https://github.com/user-attachments/assets/b482cc8e-3236-4813-a46e-9faf2c982381" />
-
-
-<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/6f102acf-25bd-418e-b448-d11aae085cdd" />
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/27f4c5df-1c84-4c96-8bf4-b1838612b9e1" />
 
 
 
-<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/819b56b7-20a7-4656-bf80-0156beb7c779" />
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/26a4d5dc-1995-4877-bab0-57d22d525d54" />
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/738caa88-51ae-46be-af9b-f1a600c56dfe" />
 
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/0d59f266-cf0f-4d07-a1c8-a24e45b50685" />
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/915653a8-6ade-49da-a418-52cdd4e0d431" />
+
+
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/cc7012cb-0e17-4e48-b945-197d87144835" />
+
+
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/33b4916d-0141-41c9-b3f3-b05a3fcbd02d" />
+
+
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/9328f2c8-0778-4c77-9e1c-9b79936d4bed" />
+
+
+
+
+<img width="294" height="411" alt="image" src="https://github.com/user-attachments/assets/ab89efc7-c363-459f-a4b1-8b37c9a04a1a" />
+
+
+
+
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/5576bd67-3de1-4509-b669-ab5f1dfe4f77" />
+
+
+
+
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/1d4fc09c-3d48-4018-8b94-90b8d0f0ffac" />
+
+
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/e262c0c2-8740-4d5d-8db0-968e40469376" />
+
+
+
+
+<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/6d6bddc6-4427-4559-9d4b-60777c10451a" />
+
+
+
+
 
 # Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
