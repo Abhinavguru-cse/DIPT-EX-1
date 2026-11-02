@@ -41,8 +41,11 @@ Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 # Program Developed By:
+
 Name:R Abhinav Guru 
 Register Number: 212225040009
+<br>
+
 Step1: Load an image from your local directory and display it.
 ```
 import cv2
