@@ -392,7 +392,9 @@ o Save the final modified image to your local directory.
 
 
 
-<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/1d4fc09c-3d48-4018-8b94-90b8d0f0ffac" />
+
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/7d068290-f70d-44d9-a7a8-0d737c4e80b3" />
+
 
 
 
