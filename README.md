@@ -367,8 +367,8 @@ o Save the final modified image to your local directory.
 <br>
 
 
+<img width="406" height="618" alt="image" src="https://github.com/user-attachments/assets/8fc16094-8c30-46f5-aa87-65d06b9ae173" />
 
-<img width="265" height="411" alt="image" src="https://github.com/user-attachments/assets/cc7012cb-0e17-4e48-b945-197d87144835" />
 <br>
 
 
